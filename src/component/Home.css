@@ -1,0 +1,12 @@
+.btn {
+    background-color:#e62739;
+    color:#e1e8f0;
+    margin: 5px;
+    padding: 5px 10px;
+}
+
+.home {
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}

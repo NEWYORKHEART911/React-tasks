@@ -1,0 +1,25 @@
+#image {
+    border-radius:50%;
+    height:180px;
+    width:180px;
+}
+
+.profbtn {
+    background-color:#e62739;
+    color: #e1e8f0;
+    width: 90px;
+    height: 40px;
+    margin: 5px;
+}
+
+.headers {
+    font-weight:bold;
+}
+
+.savebtn {
+    background-color:#6ed3cf;
+    color: #9068be;
+    width: 90px;
+    height: 40px;
+    margin: 5px;
+}

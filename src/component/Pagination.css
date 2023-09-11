@@ -1,0 +1,31 @@
+.pageContainer {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    color:#9068be;
+}
+
+#itemT4 {
+    font-size:20px;
+    font-weight: bold;
+}
+
+.pageCounter {
+    margin-top:22px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#9068be;
+}
+
+.pbtn {
+    background-color:#e62739;
+    color: #e1e8f0;
+    width: 70px;
+    height: 30px;
+}
+
+#pageDisplay {
+    margin:10px;
+}

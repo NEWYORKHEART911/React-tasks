@@ -1,0 +1,27 @@
+.apiCont {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+table {
+    margin-bottom: 20px;
+    align-items:center;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background-color:#6ed3cf
+}
+
+#apititle {
+    width: 300px;
+}
+
+#apibody {
+    width: 600px;
+}

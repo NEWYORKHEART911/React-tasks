@@ -1,0 +1,21 @@
+.theList {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+h2 {
+    color:#9068be;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.indivTasks {
+    color:#9068be;
+    font-size: 18px;
+    justify-content:center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

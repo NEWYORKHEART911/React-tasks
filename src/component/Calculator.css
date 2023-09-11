@@ -1,0 +1,19 @@
+.calcbtn {
+    flex: 0 0 calc(25% - 10px);
+}
+
+.calcCont {
+    display:flex;
+    flex-wrap: wrap;
+    width: 150px;
+    gap:10px;
+}
+
+.input {
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+p {
+    color:#9068be;
+}

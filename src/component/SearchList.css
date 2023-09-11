@@ -1,0 +1,12 @@
+.searches {
+    margin-top:30px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:#9068be;
+}
+
+.searchItems {
+    margin-top:20px;
+}

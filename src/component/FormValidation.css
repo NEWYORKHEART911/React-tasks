@@ -1,0 +1,14 @@
+.error {
+    color:#e62739;
+    font-weight:bold;
+}
+
+.form {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.formLabel {
+    font-weight:bold;
+}
